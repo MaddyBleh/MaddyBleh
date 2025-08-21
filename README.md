@@ -1,10 +1,10 @@
-## Welcome to my profile.
-<i>Pronouns: she/her</i>
+## Welcome to my profile. 🎏
+<i>Pronouns: she/her</i> 🏳️‍⚧️
 <h3>Currently working on...</h3>
-<a href="https://github.com/MaddyBleh/SensorLibrary">My simulated temperature sensor library.</a>
+<a href="https://github.com/MaddyBleh/SensorLibrary">My simulated temperature sensor library.</a> 🌡️
 <hr>
 <h3>You might be interested in seeing...</h3>
-<a href="https://github.com/MaddyBleh/D202MovieAssignment">My 2025 Semester one final project.</a>
+<a href="https://github.com/MaddyBleh/D202MovieAssignment">My 2025 Semester one final project.</a> 🎬
 
 <!--
 **MaddyBleh/MaddyBleh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
