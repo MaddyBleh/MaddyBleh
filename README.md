@@ -1,7 +1,7 @@
 ## Welcome to my profile. 🎏
 <i>Pronouns: she/her</i> 🏳️‍⚧️
 <h3>Currently working on...</h3>
-<a href="https://github.com/MaddyBleh/SensorLibrary">My simulated temperature sensor library.</a> 🌡️
+<b>Nothing currently...</b>
 <hr>
 <h3>You might be interested in seeing...</h3>
 <a href="https://github.com/MaddyBleh/D202MovieAssignment">My 2025 Semester one final project.</a> 🎬
