@@ -4,7 +4,7 @@
 <b>Nothing currently...</b>
 <hr>
 <h3>You might be interested in seeing...</h3>
-<a href="https://github.com/MaddyBleh/D202MovieAssignment">My 2025 Semester one final project.</a> 🎬
+<a href="https://github.com/MaddyBleh/D202MovieAssignment">My 2025 Semester one final project.</a> 🎬<br>
 <a href="https://github.com/MaddyBleh/D202SensorSimulation">My 2025 Semester two final project.</a> 🌡️
 
 <!--
