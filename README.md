@@ -5,7 +5,7 @@
 <hr>
 <h3>You might be interested in seeing...</h3>
 <a href="https://github.com/MaddyBleh/D202MovieAssignment">My 2025 Semester one final project.</a> 🎬<br>
-<a href="https://github.com/MaddyBleh/D202SensorSimulation">My 2025 Semester two final project.</a> 🌡️
+<a href="https://github.com/Ostim12/Software_Processes-Temperature_Sensor_Management">The group project I worked on for Semester 2 2025.</a> 🌡️
 
 <!--
 **MaddyBleh/MaddyBleh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
