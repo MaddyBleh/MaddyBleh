@@ -1,7 +1,7 @@
 ## Welcome to my profile. 🎏
 <i>Pronouns: she/her</i> 🏳️‍⚧️
 <h3>Currently working on...</h3>
-<b>Nothing currently...</b>
+<a href="https://github.com/nishikigoi-koi/Software-Engineering-Nutrition-App">Software Engineering Paper Group Project</a> 🍎
 <hr>
 <h3>You might be interested in seeing...</h3>
 <a href="https://github.com/MaddyBleh/D202MovieAssignment">My 2025 Semester one final project.</a> 🎬<br>
