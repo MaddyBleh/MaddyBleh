@@ -5,7 +5,7 @@ Internship work 🤫
 <hr>
 <h3>You might be interested in seeing...</h3>
 <a href="https://github.com/MaddyBleh/D202MovieAssignment">My 2025 Semester one final project.</a> 🎬<br>
-<a href="https://github.com/Ostim12/Software_Processes-Temperature_Sensor_Management">The group project I worked on for Semester 2 2025.</a> 🌡️
+<a href="https://github.com/Ostim12/Software_Processes-Temperature_Sensor_Management">The group project I worked on for Semester 2 2025.</a> 🌡️<br>
 <a href="https://github.com/nishikigoi-koi/Software-Engineering-Nutrition-App">Software Engineering Paper Group Project</a> 🍎
 
 <!--
